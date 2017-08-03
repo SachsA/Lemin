@@ -29,7 +29,7 @@ To use it :
 example => ./lem_in < bonus/tests/test1
 
 ====== BONUS ======
-I strongly recommand you to use it with the graphic bonus in CSFML ! With that you can see the ants (white dots), move between the rooms, the rooms are green when they are empty, red when they are full (1 ant in it) and just the last room is blue so that you can see where is it.
+I strongly recommand you to use it with the graphic bonus in CSFML ! With that, you can see the ants (white dots), move between the rooms, the rooms are green when they are empty, red when they are full (1 ant in it) and just the last room is blue so that you can see where it is.
 
 (first you have to 'make' in the directory 'bonus')
 
@@ -41,8 +41,8 @@ example => ./lem_in < bonus/tests/test1 | ./bonus/visu_hex
 
 
 Group of the project :
-Alexandre Sachs
-Kellian Cipierre
-Thomas Bleneau
-Martin Cotoni
+Alexandre Sachs,
+Kellian Cipierre,
+Thomas Bleneau,
+Martin Cotoni,
 (All in Epitech Bordeaux)
