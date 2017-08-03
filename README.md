@@ -44,5 +44,5 @@ Group of the project :
 Alexandre Sachs,
 Kellian Cipierre,
 Thomas Bleneau,
-Martin Cotoni,
+Martin Cotoni
 (All in Epitech Bordeaux)
