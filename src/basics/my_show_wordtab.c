@@ -15,7 +15,7 @@ int	my_show_wordtab(char **tab)
   int	i;
 
   i = -1;
-  while (tab[++i] != '\0')
+  while (tab[++i] != 0)
     my_printf("%s\n", tab[i]);
   return (0);
 }
