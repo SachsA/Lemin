@@ -25,6 +25,7 @@ P1-3 --> The first ant move to the room number three.
 ```
 
 **====== BONUS ======**
+
 I strongly recommand you to use it with the graphic bonus in CSFML !
 With that, you can see the ants (**white dots**), move between the rooms.
 The rooms are **green** when they are empty, **red** when they are full (1 ant in it).
