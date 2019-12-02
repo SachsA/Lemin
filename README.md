@@ -41,7 +41,7 @@ To use it :
 ```
 
 #### Project realised by:
-- **Alexandre Sachs : [alexandre.sachs@epitech.eu](https://github.com/SachsA)**
+- **Alexandre Sachs : [alexandre.sachs@outlook.fr](https://github.com/SachsA)**
 - **Kellian Cipierre : [kellian.cipierre@epitech.eu](https://github.com/K6PIR)**
 - **Martin Cotoni : [martin.cotoni@epitech.eu](https://github.com/cotonim)**
 - **Thomas Bleneau : [thomas.bleneau@epitech.eu](https://github.com/TBlenoX)**
